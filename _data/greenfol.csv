@@ -1,7 +1,7 @@
 objectid,parentid,filename,title,series,format,description,medium,youtubeid,date,textdescription,draft,subject,fabrics,othermaterials,type
-prom001,,prom_still.jpg,Tuelle Ballgown,Prom Dress,compound_object,Gown,textile,,2021,dress,final,dress,dress,dress,Image;StillImage
-prom002,prom001,prom_face.jpg,,Prom Dress,compound_object,Gown,textile,,2021,dress,final,dress,dress,dress,Image;StillImage
-prom003,prom001,prom_motion.jpg,,Prom Dress,compound_object,Gown,textile,,2021,dress,final,dress,dress,dress,Image;StillImage
+prom001,,prom_still.jpg,Tuelle Ballgown,Prom Dress,multiple,Gown,textile,,2021,dress,final,dress,dress,dress,Image;StillImage
+prom002,prom001,prom_face.jpg,,Prom Dress,multiple,Gown,textile,,2021,dress,final,dress,dress,dress,Image;StillImage
+prom003,prom001,prom_motion.jpg,,Prom Dress,multiple,Gown,textile,,2021,dress,final,dress,dress,dress,Image;StillImage
 of001,,of_comic.pdf,Our Father Comic,Our Father,application/pdf,,,,2025,,,,,,Text
 of002,,of_key.pdf,Our Father Key,Our Father,application/pdf,,,,2025,,,,,,Text
 of003,,of_key_comic.pdf,Our Father Key with Comic,Our Father,application/pdf,,,,2025,,,,,,Text
