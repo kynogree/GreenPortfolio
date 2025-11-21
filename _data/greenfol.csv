@@ -1,30 +1,46 @@
-objectid,parentid,filename,title,series,format,description,medium,youtubeid,date,textdescription,draft,subject,fabrics,othermaterials,type
-prom01,,,Tuelle Ballgown,Prom Dress,multiple,Gown,textile,,2021,dress,final,dress,dress,dress,compound_object
-prom001,prom01,prom_still.jpg,,Prom Dress,image/jpeg,,,,,,,,,,
-prom002,prom01,prom_face.jpg,,Prom Dress,image/jpeg,,,,,,,,,,
-prom003,prom01,prom_motion.jpg,,Prom Dress,image/jpeg,,,,,,,,,,
-of001,,of_comic.pdf,Our Father Comic,Our Father,application/pdf,,,,2025,,,,,,Text
-of002,,of_key.pdf,Our Father Key,Our Father,application/pdf,,,,2025,,,,,,Text
-of003,,of_key_comic.pdf,Our Father Key with Comic,Our Father,application/pdf,,,,2025,,,,,,Text
-of004,,of_prose.pdf,Our Father Prose ,Our Father,application/pdf,,,,2024,,,,,,Text
-of005,,of_script.pdf,Our Father Script ,Our Father,application/pdf,,,,2024,,,,,,Text
-of006,,of_syn.pdf,Our Father Synopsis,Our Father,application/pdf,,,,2025,,,,,,Text
-yt001,,,Nose Job,,video/mp4,"Short introduction skit for the school news, BHS TV.",video,7PRRunm24HI,2021,,,cats; witch; nose; magic; pig,,,
-fz01,,frog1.jpg,A Frog Eats Frog World,,multiple,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage
-fz001,fz01,frog1.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage
-fz002,fz01,frog2.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage
-fz003,fz01,frog3.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage
-fz004,fz01,frog4.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage
-fz005,fz01,frog5.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage
-wc001,,flower.jpg,Flower,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage
-wc002,,clown.jpg,Times Change,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage
-wc003,,towerbw.jpg,Desaturated Fall,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage
-wc004,,towerc.jpg,Autumn Technicolor ,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage
-wc005,,waterdress.jpg,Brief Triumph,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage
-ink001,,walk.jpg,I thought we were in love...,Just Strolling,image/jpeg,,ink; charcoal; colored pencil,,2024,,,test,,,Image;StillImage
-yt002,,,Are You?,,video/mp4,A moment of art in one of my darkest moments. ,,_kwnTnWWdVM,2021,,,shit; covid 19; heartbreak,,,
-op001,,pray.jpg,Fate and Destiny ,Possum's Guide ,image/jpeg,,,,,,draft 1,,,,
-op002,,,Sitting On a Bench,Possum's Guide ,compound_object,,,,,,final,,,,
-op003,op002,benchd1.jpg,,,image/jpeg,,,,,,draft 1,,,,
-op004,op003,optumbnail.jpg,,,image/jpeg,,,,,,thumbnails,,,,
-op005,,,,,,,,,,,,,,,
+objectid,parentid,filename,title,series,format,description,medium,youtubeid,date,textdescription,draft,subject,fabrics,othermaterials,type,category,text description,purpose
+prom01,,,Tuelle Ballgown,Prom Dress,multiple,Gown,textile,,2021,dress,final,dress,dress,dress,compound_object,,,
+prom001,prom01,prom_still.jpg,,Prom Dress,image/jpeg,,,,,,,,,,Image;StillImage,,,
+prom002,prom01,prom_face.jpg,,Prom Dress,image/jpeg,,,,,,,,,,Image;StillImage,,,
+prom003,prom01,prom_motion.jpg,,Prom Dress,image/jpeg,,,,,,,,,,Image;StillImage,,,
+of001,,of_comic.pdf,Our Father Comic,Our Father,application/pdf,,,,2025,,,,,,Text,,,
+of002,,of_key.pdf,Our Father Key,Our Father,application/pdf,,,,2025,,,,,,Text,,,
+of003,,of_key_comic.pdf,Our Father Key with Comic,Our Father,application/pdf,,,,2025,,,,,,Text,,,
+of004,,of_prose.pdf,Our Father Prose ,Our Father,application/pdf,,,,2024,,,,,,Text,,,
+of005,,of_script.pdf,Our Father Script ,Our Father,application/pdf,,,,2024,,,,,,Text,,,
+of006,,of_syn.pdf,Our Father Synopsis,Our Father,application/pdf,,,,2025,,,,,,Text,,,
+yt001,,,Nose Job,,video/mp4,"Short introduction skit for the school news, BHS TV.",video,7PRRunm24HI,2021,,,cats; witch; nose; magic; pig,,,compound_object,,,
+fz01,,frog1.jpg,A Frog Eats Frog World,,multiple,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage,,,
+fz001,fz01,frog1.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage,,,
+fz002,fz01,frog2.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage,,,
+fz003,fz01,frog3.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage,,,
+fz004,fz01,frog4.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage,,,
+fz005,fz01,frog5.jpg,A Frog Eats Frog World,,image/jpeg,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Image;StillImage,,,
+wc001,,flower.jpg,Flower,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage,,,
+wc002,,clown.jpg,Times Change,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage,,,
+wc003,,towerbw.jpg,Desaturated Fall,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage,,,
+wc004,,towerc.jpg,Autumn Technicolor ,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage,,,
+wc005,,waterdress.jpg,Brief Triumph,,image/jpeg,,watercolor ,,2024,,,test,,,Image;StillImage,,,
+ink001,,walk.jpg,I thought we were in love...,Just Strolling,image/jpeg,,ink; charcoal; colored pencil,,2024,,,test,,,Image;StillImage,,,
+yt002,,,Are You?,,video/mp4,A moment of art in one of my darkest moments. ,,_kwnTnWWdVM,2021,,,shit; covid 19; heartbreak,,,Image;StillImage,,,
+op001,,pray.jpg,Fate and Destiny ,Possum's Guide ,image/jpeg,,,,,,draft 1,,,,Image;StillImage,,,
+op002,,,Sitting On a Bench,Possum's Guide ,compound_object,,,,,,final,,,,compound_object,,,
+op003,op002,sitting.jpg,,,image/jpeg,,,,,,,,,,Image;StillImage,,,
+op004,op002,benchd1.jpg,,,image/jpeg,,,,,,draft 1,,,,Image;StillImage,,,
+op005,op002,optumbnail.jpg,,,image/jpeg,,,,,,thumbnails,,,,Image;StillImage,,,
+op006,,givingup.jpg,,,image/jpeg,,,,,,,,,,Image;StillImage,,,
+tk0,,,,,compound_object,,,,,,,,,,compound_object,,,
+tk1,,tk1.jpg,,,image/jpeg,,,,,,,,,,Image;StillImage,,,
+tk2,,tk2.jpg,,,image/jpeg,,,,,,,,,,Image;StillImage,,,
+tk3,,tk3.jpg,,,image/jpeg,,,,,,,,,,Image;StillImage,,,
+tk4,,tk4.jpg,,,image/jpeg,,,,,,,,,,Image;StillImage,,,
+tk5,,tk5.jpg,,,image/jpeg,,,,,,,,,,Image;StillImage,,,
+tk6,,tk6.jpg,,,image/jpeg,,,,,,,,,,Image;StillImage,,,
+bird1,,birb.jpg,,,image/jpeg,,,,,,,,,,,,,
+of007,,blair.jpg,,,image/jpeg,,,,,,,,,,,,,
+brain1,,brain.jpg,,,image/jpeg,,,,,,,,,,,,,
+party1,,cameforaparty.jpg,,,image/jpeg,,,,,,,,,,,,,
+sl001,,catsstilllife.jpg,,,image/jpeg,,,,,,,,,,,,,
+sl002,,kermitstill.jpg,,,image/jpeg,,,,,,,,,,,,,
+frog001,,sadfrog.jpg,,,image/jpeg,,,,,,,,,,,,,
+sl003,,sketch.jpg,,,image/jpeg,,,,,,,,,,,,,
