@@ -1,7 +1,7 @@
 objectid,parentid,filename,title,series,format,description,medium,youtubeid,date,textdescription,draft,subject,fabrics,othermaterials,type
 prom01,,,Tuelle Ballgown,Prom Dress,multiple,Gown,textile,,2021,dress,final,dress,dress,dress,compound_object
-prom001,prom01,prom_still.jpg,,Prom Dress,image/jpeg,,,,,,,,,,Image;StillImage
-prom002,prom01,prom_face.jpg,,Prom Dress,image/jpeg,,,,,,,,,,Image;StillImage
+prom001,prom01,prom_still.jpg,,Prom Dress,image/jpeg,,,,,,,,,,
+prom002,prom01,prom_face.jpg,,Prom Dress,image/jpeg,,,,,,,,,,
 prom003,prom01,prom_motion.jpg,,Prom Dress,image/jpeg,,,,,,,,,,
 of001,,of_comic.pdf,Our Father Comic,Our Father,application/pdf,,,,2025,,,,,,Text
 of002,,of_key.pdf,Our Father Key,Our Father,application/pdf,,,,2025,,,,,,Text
