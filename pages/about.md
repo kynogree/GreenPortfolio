@@ -13,7 +13,9 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-   ### subheading?
+Kylee Green is an artist living in Bloomington, Indiana. This page documents her work across multiple forms of media. 
+### sub heading 
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
