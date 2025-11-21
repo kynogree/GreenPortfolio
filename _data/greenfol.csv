@@ -1,11 +1,16 @@
 objectid,parentid,filename,title,series,format,description,medium,youtubeid,date,textdescription,draft,subject,fabrics,othermaterials,type
 prom001,,prom_still.jpeg,Tuelle Ballgown,Prom Dress,compound_object,Gown,textile,,1911,dress,final,dress,dress,dress,Img;Stillimage
-prom002,prom001,prom_face.jpeg,Tuelle Ballgown,Prom Dress,compound_object,Gown,textile,,1911,dress,final,dress,dress,dress,Img;Stillimage
-prom003,prom001,prom_motion.jpeg,Tuelle Ballgown,Prom Dress,compound_object,Gown,textile,,1911,dress,final,dress,dress,dress,Img;Stillimage
-of001,,of_comic.pdf,Our Father Comic,Our Father,application/pdf,Comic ,textile,,1911,dress,final,dress,dress,dress,
-of002,,of_key.pdf,Our Father Key,Our Father,application/pdf,Comic ,textile,,1911,dress,final,dress,dress,dress,
-of003,,of_key_comic.pdf,Our Father Key with Comic,Our Father,application/pdf,Comic ,textile,,1911,dress,final,dress,dress,dress,
-of004,,of_prose.pdf,Our Father Prose ,Our Father,application/pdf,Comic ,textile,,1911,dress,final,dress,dress,dress,
-of005,,of_script.pdf,Our Father Script ,Our Father,application/pdf,Comic ,textile,,1911,dress,final,dress,dress,dress,
-of006,,of_syn.pdf,Our Father Syn,Our Father,application/pdf,Comic ,textile,,1911,dress,final,dress,dress,dress,
+prom002,prom001,prom_face.jpeg,,Prom Dress,compound_object,Gown,textile,,1911,dress,final,dress,dress,dress,Img;Stillimage
+prom003,prom001,prom_motion.jpeg,,Prom Dress,compound_object,Gown,textile,,1911,dress,final,dress,dress,dress,Img;Stillimage
+of001,,of_comic.pdf,Our Father Comic,Our Father,application/pdf,,,,,,,,,,
+of002,,of_key.pdf,Our Father Key,Our Father,application/pdf,,,,,,,,,,
+of003,,of_key_comic.pdf,Our Father Key with Comic,Our Father,application/pdf,,,,,,,,,,
+of004,,of_prose.pdf,Our Father Prose ,Our Father,application/pdf,,,,,,,,,,
+of005,,of_script.pdf,Our Father Script ,Our Father,application/pdf,,,,,,,,,,
+of006,,of_syn.pdf,Our Father Syn,Our Father,application/pdf,,,,,,,,,,
 yt001,,,Nose Job,,video/mp4,"Short introduction skit for the school news, BHS TV.",video,7PRRunm24HI,2021,,,cats; witch; nose; magic; pig,,,
+frog1,,frog1.jpeg,A Frog Eats Frog World,,compound_object,zine,zine,,2024,,final,Kermit the Frog; frog; ,,,Img;Stillimage
+frog2,frog1,frog2.jpeg,,,compound_object,,,,,,,,,,Img;Stillimage
+frog3,frog1,frog3.jpeg,,,compound_object,,,,,,,,,,Img;Stillimage
+frog4,frog1,frog4.jpeg,,,compound_object,,,,,,,,,,Img;Stillimage
+frog5,frog1,frog5.jpeg,,,compound_object,,,,,,,,,,Img;Stillimage
