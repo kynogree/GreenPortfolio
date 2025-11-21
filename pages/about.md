@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-Kylee Green is an artist living in Bloomington, Indiana. This page documents her work across multiple forms of media. 
+Kylee Green is an artist living in Bloomington, Indiana. This page documents her work across multiple forms of media. Kylee graduated from the Individualized Major Program in May with a degree in Comic Book Design and Culture. She is currently working on an accelerated master’s program in library science. Kylee founded a comic book club during her time as an undergrad. 
 
 ## Series 
 
