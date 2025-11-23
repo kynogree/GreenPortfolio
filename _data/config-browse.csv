@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,date,,,date
-series,creator,TRUE,,series
-subject,,TRUE,,
+series,creator,true,,series
+subject,,true,,
 location,,,,
 dimensions,size,,,size
 medium,medium,,,medium
