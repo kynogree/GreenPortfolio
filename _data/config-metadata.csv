@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
+series,Series,true
 creator,Creator,
 date,Date Created,
 description,Description,
@@ -13,3 +14,9 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+dimensions,Size
+medium,medium
+textdescription,text
+fabric,fabric
+category,category
+purpose,Made For
