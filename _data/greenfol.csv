@@ -1,4 +1,4 @@
-objectid,parentid,filename,title,series,format,description,medium,dimensions,youtubeid,date,textdescription,draft,subject,fabrics,othermaterials,type,category,text description,purpose
+objectid,parentid,filename,title,series,format,description,medium,dimensions,youtubeid,date,textdescription,draft,subject,fabric,othermaterials,type,category,text description,purpose
 prom01,,,Tuelle Ballgown,,multiple,This is a ball gown made of tuelle and a silk blend. It was created for the prom in 2021. It includes floral appliques.,textile,,,2021-05-07,,final,dress; prom ,tuelle; silk blend; appliques,dress,compound_object,Prom 2021,,Prom 2021
 prom001,prom01,prom_still.jpg,,,image/jpeg,,,,,,,,,,,Image;StillImage,,,
 prom002,prom01,prom_face.jpg,,,image/jpeg,,,,,,,,,,,Image;StillImage,,,
