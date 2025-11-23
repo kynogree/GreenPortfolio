@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-series,series,,true
+series,series,,,true
 date,Date,,,Date
 creator,Creator,,,
 subject,,true
