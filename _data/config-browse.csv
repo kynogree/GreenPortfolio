@@ -1,5 +1,11 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,Date
-creator,Creator,,,,
-subject,,,true,,
-location,,true,,,
+date,date,,,date
+series,creator,TRUE,,series
+subject,,TRUE,,
+location,,,,
+dimensions,size,,,size
+medium,medium,,,medium
+textdescription,textdescription,,,
+fabric,fabric,,,
+category,category,,,category
+purpose,purpose,,,purpose
