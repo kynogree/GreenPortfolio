@@ -8,8 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="party1" height="50" %}
-padding: 30em # Default is 8em
+{% include feature/jumbotron.html objectid="party1" height="50" padding: 30em %}
 
 {% include feature/nav-menu.html sections="About the Collection;Series" %}
 
