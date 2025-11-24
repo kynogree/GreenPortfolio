@@ -9,6 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="party1" height="50" %}
+padding: 30em # Default is 8em
 
 {% include feature/nav-menu.html sections="About the Collection;Series" %}
 
